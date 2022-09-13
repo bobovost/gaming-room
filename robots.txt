@@ -1,0 +1,6 @@
+User-agent: *
+
+Allow: /
+
+
+sitemap: https://bobovost.github.io/gaming-room/sitemapx.xml
